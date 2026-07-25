@@ -19,18 +19,6 @@ The goal of this project is to help businesses understand customer demographics,
 
 ---
 
-## 📂 Project Structure
-
-```
-Diwali-Sales-Analysis/
-│
-├── Diwali Sales Data.csv
-├── Diwali_Sales_Analysis.ipynb
-├── Diwali Sales Dashboard.pbix
-├── images/
-│   └── dashboard.png
-└── README.md
-```
 
 ---
 
@@ -91,20 +79,8 @@ An interactive dashboard was created in Power BI to visualize:
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/18d17eef-31b1-4797-aa74-c332917721c9" />
 
-Example:
-
-```
-images/dashboard.png
-```
-
-```md
-<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/18121d36-2b31-464e-9398-622fcf673655" />
-
-```
-
----
 
 ## ▶️ How to Run
 
