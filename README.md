@@ -109,7 +109,7 @@ Diwali_Sales_Analysis.ipynb
 Open:
 
 ```
-Diwali Sales Dashboard.pbix
+Diwali Sales Analysis.pbix
 ```
 
 using Microsoft Power BI Desktop.
@@ -129,9 +129,9 @@ using Microsoft Power BI Desktop.
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ChaitanyaDarekar2002
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/chaitanyadarekar02
 
 ---
 
