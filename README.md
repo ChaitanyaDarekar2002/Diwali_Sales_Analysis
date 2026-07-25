@@ -100,7 +100,8 @@ images/dashboard.png
 ```
 
 ```md
-![Dashboard](images/dashboard.png)
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/18121d36-2b31-464e-9398-622fcf673655" />
+
 ```
 
 ---
